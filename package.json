@@ -1,6 +1,7 @@
 {
-	"author": "Judah McLemore",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Judah McLemore",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
